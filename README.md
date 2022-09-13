@@ -132,3 +132,4 @@ I `lib/mix/seed.ex` finns ett mix-script för att nollställa och seeda database
 2. Surfa till http://localhost:3000 (eftersom det inte finns nån route för `/` i `router.ex` kan det vara mer givande att surfa till http://localhost:3000/fruits
 
 
+This is a test commit
